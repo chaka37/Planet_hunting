@@ -1,2 +1,2 @@
-# Planet_hunting
+# Planet_Hunting
 Machine learning project
